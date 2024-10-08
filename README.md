@@ -7,13 +7,29 @@
     Welcome to my GitHub profile! I’m passionate about coding and always eager to learn new technologies.
 </p>
 
+ <h2>💻 About Me</h2>
+        <p>I'm a Pre-Final Year Computer Science Engineering Student passionate about web development and open-source contributions. I'm currently building my portfolio website and participating in exciting projects.</p>
+
+<h2>🌱 I’m Currently Learning:</h2>
+        <ul>
+            <li>C++ Programming and Algorithms</li>
+            <li>React for building static websites</li>
+            <li>Open-source development through the GirlScript Summer of Code</li>
+        </ul>
+
+ <h2>💡 I Love Working On:</h2>
+        <ul>
+            <li>Frontend Development</li>
+            <li>Creating fun and interactive web applications</li>
+ </ul>
+
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=kathycodes247" alt="kathycodes247" />
     </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌍 Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/katherine-parshad" target="_blank" style="padding: 5px;">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Katherine Parshad" height="30" width="40" />
