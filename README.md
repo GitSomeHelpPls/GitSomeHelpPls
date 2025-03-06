@@ -1,4 +1,4 @@
-<img src="banner.jpg" width="1280" alt="Banner" />
+<img src="bg.gif" width="1280" alt="Banner" />
 <h1 align="center">Hi, I'm Katherine!</h1>
 <h2 align="center">👩🏻‍💻📓✍🏻💡</h2>
 <h3 align="center">A Dedicated Developer</h3>
