@@ -39,8 +39,6 @@ Welcome to my GitHub! I'm a passionate **Computer Science Engineering** student 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitsomehelppls&layout=compact&theme=radical)
 
 ## 🌱 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=react&logoColor=white)](https://your-portfolio-link.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katherine-parshad-901504252/)
 
 🚀 *Always learning, always building!*
